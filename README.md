@@ -1,4 +1,7 @@
 # TwittoBERT
+
+Streamlit App Link : https://huggingface.co/spaces/junaid17/new_thing
+
 This project demonstrates a sentiment analysis pipeline built with DistilBERT, a lightweight transformer model developed by Hugging Face. The model was fine-tuned on a dataset of 16,000 tweets to classify sentiment into categories such as Positive, Negative, and Neutral. The final model achieved an impressive 90% accuracy on the validation set.
 
 🚀 Features
